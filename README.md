@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+HOW TO PLAY HANGMAN
+
+You have 10 chances to guess the a random word, the length of the word is shown by the amount of empty spaces above the keyboard.
+Every time you make a mistake a you are one step closer to being hanged!!!If you get a letter a right it will show the letters
+above the keyboard.
+
+Select the reset button to start over. If the game is finished select play again to start over
