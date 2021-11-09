@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './help.css';
+import './Help.css';
 //Returns a help component which tells the player how to play the game
 class Help extends Component {
     render() {
